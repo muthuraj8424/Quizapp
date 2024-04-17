@@ -1,0 +1,48 @@
+.container{
+    width: 640px;
+    margin: auto;
+    margin-top: 80px;
+    background: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+.container hr{
+    height: 2px;
+    border: none;
+    background: grey;
+}
+.container ul li{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding-left: 15px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-bottom: 3px;
+}
+.container button{
+    margin: auto;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(185, 185, 238);
+    color: black;
+    cursor: pointer;
+}
+.container .index{
+    margin: auto;
+
+}
+.container .correct{
+    background-color: rgb(155, 233, 155);
+    border: 3px solid rgb(155, 233, 155);
+  
+ 
+}
+.container .wrong{
+    background-color: rgb(247, 149, 149);
+    border-color:  rgb(247, 149, 149);
+}

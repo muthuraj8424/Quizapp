@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "what is 1+1 in js",
+    option1: "44",
+    option2: "4",
+    option3: "2",
+    option4: "0",
+    ans: 3,
+  },
+  {
+    question: "what is 6+5 in js",
+    option1: "14",
+    option2: "24",
+    option3: "17",
+    option4: "11",
+    ans: 4,
+  },
+  {
+    question: "what is 431+1 in js",
+    option1: "432",
+    option2: "411",
+    option3: "723",
+    option4: "450",
+    ans: 1,
+  },
+  {
+    question: "what is 98*2 in js",
+    option1: "345",
+    option2: "675",
+    option3: "897",
+    option4: "none of the above",
+    ans: 4,
+  },
+  {
+    question: "what is 12/2 in js",
+    option1: "4",
+    option2: "6",
+    option3: "2",
+    option4: "0",
+    ans: 2,
+  },
+];

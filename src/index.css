@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+body {
+  height: 100vh;
+  font-size: 18px;
+  font-weight: bold;
+  background-image: linear-gradient(whitesmoke, rgb(120, 120, 228));
+}
